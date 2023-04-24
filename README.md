@@ -24,9 +24,8 @@ Key Finding for this analysis:
 - Relation between number of reviews and number of subscribers
 - The heat map depicts the correlation
 
-The updated version of this project is at Kaggle
+The updated version of this project is at Kaggle link below.
 
 https://www.kaggle.com/kamalapousajja/udemy-courses-analysis-basic-eda
-
 
 
